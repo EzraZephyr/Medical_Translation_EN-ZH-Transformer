@@ -4,7 +4,7 @@ English / [中文](readme_zh.md)
 
 ↑ 点击切换语言
 
-This project uses a **Seq2Seq** model under the **Transformer** architecture to perform transfer learning on a parallel corpus of Chinese and English texts scraped from the **New England Journal of Medicine**, making the model better suited for professional medical translation from English to Chinese.
+This project uses a **Seq2Seq** model based on the **Transformer** architecture to perform transfer learning on a parallel corpus of Chinese and English texts collected from the **New England Journal of Medicine**, to make the model better suited for professional medical translation from English to Chinese.
 
 A simple GUI interface is implemented using **Tkinter**, allowing users to conveniently perform English-to-Chinese translation operations.
 
